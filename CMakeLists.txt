@@ -10,7 +10,7 @@
 #       ON:  Build posix handler implementation
 #       OFF: Don't build posix handler implementation
 
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.19)
 
 # project name
 project(amqpcpp)
